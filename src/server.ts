@@ -16,7 +16,5 @@ const startServer = async () => {
     });
 };
 
-// PORT=5000
-// MONGO_URI=mongodb+srv://arpan:dbarpanpass@cluster0.ndjticc.mongodb.net/
 
 startServer();
