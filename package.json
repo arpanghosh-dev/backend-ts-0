@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@typegoose/typegoose": "^13.1.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
@@ -22,6 +23,7 @@
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
+    "@types/mongoose": "^5.11.96",
     "@types/morgan": "^1.9.10",
     "@types/node": "^25.0.9",
     "nodemon": "^3.1.11",
